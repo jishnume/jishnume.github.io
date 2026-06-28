@@ -24,7 +24,7 @@ plugins:
 # Your details (used in footer and SEO)
 author:
   name: Jishnu Goswami
-  email: jishnu.goswami@postgrad.manchester.ac.uk
+  email: NA
 
 # Don't show this in the nav even if it exists at root
 exclude:
