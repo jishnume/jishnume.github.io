@@ -1,7 +1,7 @@
 # Theme — built into GitHub Pages, no install needed
 theme: minima
 minima:
-  skin: classic   # options: classic, dark, solarized, solarized-dark
+  skin: dark   # options: classic, dark, solarized, solarized-dark
 
 # Navigation links shown in the header
 header_pages:
