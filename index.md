@@ -1,34 +1,24 @@
----
-layout: home
-title: Home
----
-
-PhD researcher in fluid mechanics at the University of Manchester.
-I study how things settle, slide, and deform in viscous fluids —
-from sedimentation dynamics and elastic lubrication to the curling
-of thin elastic ribbons near surfaces.
+# Welcome to My Site
+Hello, I am Jishnu Goswami, a doctoral candidate in the University of Manchester
 
 ---
 
-## Research interests
-
-- Sedimentation dynamics of particles in viscous fluids
-- Elastic lubrication theory — thin elastic sheets near walls
-- Mechanics of tape springs and curved elastic structures
-- Low-Reynolds-number fluid–structure interaction
-
----
+## Navigation
+- [About Me](about/about.md)
+- [Research](Research/Research.md)
+- [Publications](Publications/Publications.md)
+- [Teaching](Teaching/Teaching.md)
+- [Blog](Blog/Blog.md)
 
 ## Now
 
-Writing up a sedimentation manuscript for submission.
-Finishing figure preparation in MATLAB and Inkscape.
-Setting up a self-hosted server for a persistent computing environment.
+Things I am losing my sleep over these days -
+*Updating*
 
 ---
 
 ## Find me
 
 - [GitHub](https://github.com/jishnume)
-- [Google Scholar](https://scholar.google.com) *(add your link)*
-- [Email](contact.md)
+<!-- - [Google Scholar](https://scholar.google.com) *(add your link)* -->
+<!-- - [Email](contact.md) -->
