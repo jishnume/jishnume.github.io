@@ -1,4 +1,4 @@
-title: Jishnu M E
+title: Jishnu Goswami
 description: PhD researcher · Fluid Mechanics · University of Manchester
 url: "https://jishnume.github.io"
 
@@ -21,10 +21,6 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
-# Your details (used in footer and SEO)
-author:
-  name: Jishnu Goswami
-  email: NA
 
 # Don't show this in the nav even if it exists at root
 exclude:
