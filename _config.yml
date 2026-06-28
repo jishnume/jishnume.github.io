@@ -1,0 +1,33 @@
+title: Jishnu M E
+description: PhD researcher · Fluid Mechanics · University of Manchester
+url: "https://jishnume.github.io"
+
+# Theme — built into GitHub Pages, no install needed
+theme: minima
+minima:
+  skin: classic   # options: classic, dark, solarized, solarized-dark
+
+# Navigation links shown in the header
+header_pages:
+  - research.md
+  - publications.md
+  - blog.md
+  - teaching.md
+  - cv.md
+  - contact.md
+
+# Plugins pre-approved for GitHub Pages
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Your details (used in footer and SEO)
+author:
+  name: Jishnu Goswami
+  email: jishnu.goswami@postgrad.manchester.ac.uk
+
+# Don't show this in the nav even if it exists at root
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
