@@ -1,4 +1,4 @@
-Hello, I am Jishnu Goswami, a doctoral candidate in the University of Manchester
+Hello, I am a doctoral candidate in the University of Manchester.
 
 ---
 
