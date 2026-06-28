@@ -1,4 +1,3 @@
-# Welcome to My Site
 Hello, I am Jishnu Goswami, a doctoral candidate in the University of Manchester
 
 ---
@@ -13,9 +12,8 @@ Hello, I am Jishnu Goswami, a doctoral candidate in the University of Manchester
 ## Now
 
 Things I am losing my sleep over these days -
-*Updating*
+(*Updating*)
 
----
 
 ## Find me
 
